@@ -26,6 +26,10 @@ No third-party dependencies. No visible window. No disk-resident payload logic.
 
 ---
 
+## Project Updates
+
+This repository is actively maintained.
+
 ## Contents
 
 - [At a glance](#at-a-glance)
