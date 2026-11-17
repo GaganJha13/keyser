@@ -81,7 +81,7 @@ This repository is actively maintained.
 
 ---
 
-## What this is
+## What this project is all about -
 
 `keyser` is a small, deliberately unremarkable keystroke logger built to demonstrate **staged, credential-independent collection** on Windows.
 
