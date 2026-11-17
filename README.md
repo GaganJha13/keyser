@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-**the greatest trick**
+**The Greatest Trick The Devil Ever Play**
 
 A userland keystroke implant for Windows, written in pure `ctypes`.
 No third-party dependencies. No visible window. No disk-resident payload logic.
